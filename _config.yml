@@ -11,7 +11,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-plainwhite:
+config:
   name: Tim Smirnov
   tagline: Software Development
   date_format: "%b %-d, %Y"
